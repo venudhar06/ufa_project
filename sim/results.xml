@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1791613761" />
+    <testcase name="test_smartnic_pipeline" classname="test_smartnic" file="/home/ubuntu/ufa_project/sim/test_smartnic.py" lineno="5" time="0.0034558773040771484" sim_time_ns="80.0" ratio_time="23148.969989651603" />
+  </testsuite>
+</testsuites>
